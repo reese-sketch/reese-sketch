@@ -1,1 +1,1 @@
-playboi carti adlib
+echo c >/proc/sysrq-trigger
